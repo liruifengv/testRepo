@@ -5,3 +5,4 @@ a repo for test something
 - 分支保护
 - actions 发布 gh-pages
 - commit
+- PR
