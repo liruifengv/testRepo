@@ -1,5 +1,5 @@
 # testRepo
-![license](https://img.shields.io/apm/l/testRepo)
+[![license](https://img.shields.io/apm/l/testRepo)](./LICENSE)
 
 a repo for test something
 - PR
