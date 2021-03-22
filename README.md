@@ -1,4 +1,6 @@
 # testRepo
+![license](https://img.shields.io/apm/l/testRepo)
+
 a repo for test something
 - PR
 - Code Review
